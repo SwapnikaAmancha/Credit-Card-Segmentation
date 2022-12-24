@@ -1,1 +1,3 @@
 # Credit-Card-Segmentation
+Not every customer is the same. Customers typically exhibit a wide range of behaviors. Businesses frequently employ segments that are based on thresholds. A scientifically based methodology to categorize clients is required due to the expanding quantity of characteristics and the overall trend of personalized products. The solution is clustering based on behavioral data. This analysis's goal is to classify credit card users into the proper demographic groups in order to better understand their needs and behaviors and provide them with targeted marketing offers.
+The k-means method will be used to develop the best segmentation plan.
